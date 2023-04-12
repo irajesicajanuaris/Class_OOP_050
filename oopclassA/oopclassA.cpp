@@ -19,3 +19,11 @@ public :
 	}
 };
 
+class Matakulliah {
+private:
+	string kode;
+	string namamk;
+	int sks;
+
+};
+
